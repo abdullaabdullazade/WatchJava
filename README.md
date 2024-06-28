@@ -16,7 +16,7 @@ This repository contains a simple Java watch application. The application demons
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/abdullazadeabdulla/WatchJava.git
+    git clone https://github.com/abdullaabdullazade/WatchJava.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -24,11 +24,11 @@ This repository contains a simple Java watch application. The application demons
     ```
 3. Compile the project:
     ```sh
-    javac src/com/abdullazadeabdulla/watch/Main.java src/com/abdullazadeabdulla/watch/Watch.java -d bin
+    javac src/com/abdullaabdullazade/watch/Main.java src/com/abdullaabdullazade/watch/Watch.java -d bin
     ```
 4. Run the application:
     ```sh
-    java -cp bin com.abdullazadeabdulla.watch.Main
+    java -cp bin com.abdullaabdullazade.watch.Main
     ```
 
 ### Usage
@@ -56,7 +56,7 @@ Bu repozitoriyada sadə Java saat tətbiqi mövcuddur. Tətbiq əsas vaxtı gös
 ### Quraşdırma
 1. Repozitoriyanı klonlayın:
     ```sh
-    git clone https://github.com/abdullazadeabdulla/WatchJava.git
+    git clone https://github.com/abdullaabdullazade/WatchJava.git
     ```
 2. Layihə qovluğuna keçin:
     ```sh
@@ -64,11 +64,11 @@ Bu repozitoriyada sadə Java saat tətbiqi mövcuddur. Tətbiq əsas vaxtı gös
     ```
 3. Layihəni tərtib edin:
     ```sh
-    javac src/com/abdullazadeabdulla/watch/Main.java src/com/abdullazadeabdulla/watch/Watch.java -d bin
+    javac src/com/abdullaabdullazade/watch/Main.java src/com/abdullaabdullazade/watch/Watch.java -d bin
     ```
 4. Tətbiqi işə salın:
     ```sh
-    java -cp bin com.abdullazadeabdulla.watch.Main
+    java -cp bin com.abdullaabdullazade.watch.Main
     ```
 
 ### İstifadə
