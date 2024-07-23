@@ -14,7 +14,7 @@ public class Watch extends JFrame implements ActionListener {
 
     Watch() {
         this.setLayout(null);
-        ImageIcon icon=new ImageIcon("C:\\Users\\Acer\\IdeaProjects\\StopWatch\\src\\csharpIcon.png");
+        //ImageIcon icon=new ImageIcon("icon.png");
         this.setIconImage(icon.getImage());
         label.setBounds(100, 90, 200, 112);
         label.setText(solvewatchhms());
